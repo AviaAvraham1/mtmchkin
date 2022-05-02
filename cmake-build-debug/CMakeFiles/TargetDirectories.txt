@@ -1,3 +1,0 @@
-/mnt/c/Compiles C AVIA/mtmchkin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Compiles C AVIA/mtmchkin/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Compiles C AVIA/mtmchkin/cmake-build-debug/CMakeFiles/mtmchkin.dir
